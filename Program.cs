@@ -200,7 +200,7 @@ class Program
             Console.WriteLine();
         }
 
-        Console.WriteLine("Работа калькулятора завершена.");
+        
     }
 }
 
